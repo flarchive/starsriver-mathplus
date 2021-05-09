@@ -1,0 +1,35 @@
+{
+    "name": "starsriver/mathplus",
+    "version": "0.1.3",
+    "description": "MathJax extension for flarum,more support.",
+    "keywords": [
+        "extension",
+        "math",
+        "mathjax"
+    ],
+    "license": "mit",
+    "type": "flarum-extension",
+    "authors": [
+        {
+            "name": "星河",
+            "email": "weizixuan110@foxmail.com",
+            "homepage": "https://include.uotan.cn/"
+        }
+    ],
+    "require": {
+        "flarum/core": ">=0.1.0-beta.16"
+    },
+    "autoload": {
+        "psr-4": {"If\\FlaJax\\": "src/"}
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Mathplus",
+            "icon": {
+                "name": "fas fa-smile",
+                "backgroundColor": "#238c59",
+                "color": "#FF6688"
+            }
+        }
+    }
+}
