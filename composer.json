@@ -1,0 +1,52 @@
+{
+    "name": "starsriver/mathplus",
+    "version": "0.3.2",
+    "description": "Mathplus extension for flarum,more support.",
+    "keywords": [
+        "extension",
+        "math",
+        "mathjax",
+        "mathren",
+        "Katex"
+    ],
+    "license": "mit",
+    "type": "flarum-extension",
+    "authors": [
+        {
+            "name": "Arek Tekieli",
+            "email": "arektekieli@gmail.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Instytut Fotonowy",
+            "email": "info@fotonowy.pl",
+            "homepage": "https://www.fotonowy.pl/"
+        },
+        {
+            "name": "Include社区",
+            "email": "weizixuan110@foxmail.com",
+            "homepage": "https://include.uotan.cn/"
+        },
+        {
+            "name": "星河",
+            "email": "weizixuan110@foxmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "flarum/core": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {"If\\FlaJax\\": "src/"}
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Mathplus",
+            "icon": {
+                "name": "fas fa-square-root-alt",
+                "backgroundColor": "#FF6688",
+                "color": "#fff"
+            }
+        }
+    }
+}
