@@ -2,13 +2,21 @@
 
 > **Read-only archive of released versions of starsriver/mathplus.** Not for installation: use [Packagist](https://packagist.org/packages/starsriver/mathplus) or the [upstream repository](https://github.com/serazon/Mathplus).
 
-**0** versions archived · Latest: [`0.4.0`](https://github.com/flarchive/starsriver-mathplus/tree/archive/v0.4.0) · License: `mit` · Flarum: `^1.0`
+**9** versions archived · Latest: [`0.4.0`](https://github.com/flarchive/starsriver-mathplus/tree/archive/v0.4.0) · License: `mit` · Flarum: `^1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2021-04-17 | `>=0.1.0-beta.16 <=0.1.0` | [Browse](https://github.com/flarchive/starsriver-mathplus/tree/archive/v0.1.0) |
+| `0.1.2` | 2021-05-09 | `>=0.1.0-beta.16` | [Browse](https://github.com/flarchive/starsriver-mathplus/tree/archive/v0.1.2) |
+| `0.1.3` | 2021-05-09 | `>=0.1.0-beta.16` | [Browse](https://github.com/flarchive/starsriver-mathplus/tree/archive/v0.1.3) |
+| `0.2.0` | 2021-05-09 | `>=0.1.0-beta.16` | [Browse](https://github.com/flarchive/starsriver-mathplus/tree/archive/v0.2.0) |
+| `0.2.1` | 2021-05-09 | `>=0.1.0-beta.16` | [Browse](https://github.com/flarchive/starsriver-mathplus/tree/archive/v0.2.1) |
+| `0.3.0` | 2021-06-02 | `1.0` | [Browse](https://github.com/flarchive/starsriver-mathplus/tree/archive/v0.3.0) |
+| `0.3.1` | 2021-06-04 | `^1.0` | [Browse](https://github.com/flarchive/starsriver-mathplus/tree/archive/v0.3.1) |
+| `0.3.2` | 2021-06-05 | `^1.0` | [Browse](https://github.com/flarchive/starsriver-mathplus/tree/archive/v0.3.2) |
+| `0.4.0` | 2021-08-21 | `^1.0` | [Browse](https://github.com/flarchive/starsriver-mathplus/tree/archive/v0.4.0) |
 
 Catalog entry: [packages/starsriver-mathplus.json](https://github.com/flarchive/archive-index/blob/main/packages/starsriver-mathplus.json)
 
